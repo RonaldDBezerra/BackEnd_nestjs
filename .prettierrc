@@ -1,0 +1,14 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "endOfLine": "crlf",
+  "prettier/prettier": [
+    "error",
+    {
+      "endOfLine": "auto"
+    }
+  ],
+  "tabWidth": 1,
+  "semi": false,
+  "jsxSingleQuote": true
+}
